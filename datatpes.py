@@ -1,0 +1,10 @@
+num1=30
+print(num1,type(num1))
+num2=2.5
+print(num2,type(num2))
+ch='d'
+print(ch,type(ch))
+stg="hima"
+print(stg,type(stg))
+div=num2/num1
+print(ch+stg)
